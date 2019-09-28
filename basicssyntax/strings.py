@@ -22,3 +22,11 @@ print(d)
 a = "This is a single \
 string"
 print(a)
+
+print("*"*20)
+
+print('Hello, {}'.format('Vishva'))
+print("Sammy has {} balloons.".format(5))
+
+str = 'Docupace_Reference_Value'
+print(str.find('Docupace_Reference_Value'))

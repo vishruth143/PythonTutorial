@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76cc6e8b-716c-4352-99a5-b091d9b95b55" name="Default Changelist" comment="" />
+    <list default="true" id="76cc6e8b-716c-4352-99a5-b091d9b95b55" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/PythonTutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonTutorial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicssyntax/strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/basicssyntax/strings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +15,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basicssyntax/date.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="50" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basicssyntax/boolean.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -17,6 +42,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -27,18 +55,26 @@
         <option value="$PROJECT_DIR$/basicssyntax/numbers.py" />
         <option value="$PROJECT_DIR$/basicssyntax/numbers_operations.py" />
         <option value="$PROJECT_DIR$/basicssyntax/boolean.py" />
-        <option value="$PROJECT_DIR$/basicssyntax/strings.py" />
         <option value="$PROJECT_DIR$/pytestpackage/test_case_demo1.py" />
         <option value="$PROJECT_DIR$/basicssyntax/string_methods.py" />
         <option value="$PROJECT_DIR$/basicssyntax/strings_formatting.py" />
+        <option value="$PROJECT_DIR$/basicssyntax/fakermodule.py" />
+        <option value="$PROJECT_DIR$/basicssyntax/regular_expressions.py" />
+        <option value="$PROJECT_DIR$/basicssyntax/example.py" />
+        <option value="$PROJECT_DIR$/basicssyntax/strings.py" />
+        <option value="$PROJECT_DIR$/basicssyntax/files/readfiles.py" />
+        <option value="$PROJECT_DIR$/basicssyntax/readfiles.py" />
+        <option value="$PROJECT_DIR$/basicssyntax/rest_api_response.py" />
+        <option value="$PROJECT_DIR$/basicssyntax/addhourstodate.py" />
+        <option value="$PROJECT_DIR$/basicssyntax/date.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="15" />
-    <option name="y" value="30" />
-    <option name="width" value="1890" />
-    <option name="height" value="960" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1943" />
+    <option name="height" value="1043" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -53,6 +89,11 @@
               <item name="PythonTutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonTutorial" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PythonTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonTutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="basicssyntax" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -60,11 +101,18 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/basicssyntax/strings_formatting.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\automation\pycharmprojects\PythonTutorial\basicssyntax\files" />
+      <recent name="C:\automation\pycharmprojects\PythonTutorial\basicssyntax" />
+      <recent name="C:\automation\pycharmprojects\PythonTutorial\filehandling" />
+      <recent name="C:\automation\pycharmprojects\PythonTutorial" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\automation\pycharmprojects\PythonTutorial\basicssyntax" />
       <recent name="C:\PycharmProjects\PythonTutorial\basicssyntax" />
     </key>
   </component>
@@ -80,41 +128,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.strings_formatting">
-    <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.date">
+    <configuration name="addhourstodate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Program Files (x86)\Python37-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../HelloWorld" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../HelloWorld/HelloWorld.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="boolean" type="PythonConfigurationType" factoryName="Python">
-      <module name="PythonTutorial" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Program Files (x86)\Python37-32\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basicssyntax" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basicssyntax/boolean.py" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basicssyntax/addhourstodate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,19 +160,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="numbers" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="date" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Program Files (x86)\Python37-32\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basicssyntax" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basicssyntax/numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basicssyntax/date.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,159 +181,12 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="numbers_operations" type="PythonConfigurationType" factoryName="Python">
-      <module name="PythonTutorial" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Program Files (x86)\Python37-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basicssyntax" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basicssyntax/numbers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="string_methods" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="PythonTutorial" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Program Files (x86)\Python37-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basicssyntax" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basicssyntax/string_methods.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="strings" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="PythonTutorial" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Program Files (x86)\Python37-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basicssyntax" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basicssyntax/strings.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="strings_formatting" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="PythonTutorial" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Program Files (x86)\Python37-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basicssyntax" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basicssyntax/strings_formatting.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="variables" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="PythonTutorial" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Program Files (x86)\Python37-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basicssyntax" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basicssyntax/variables.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="variables_rules" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="PythonTutorial" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Program Files (x86)\Python37-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basicssyntax" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basicssyntax/variables_rules.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in test_case_demo1.py" type="tests" factoryName="py.test" nameIsGenerated="true">
-      <module name="PythonTutorial" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="C:\Program Files (x86)\Python37-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/pytestpackage/test_case_demo1.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Python.boolean" />
-      <item itemvalue="Python.string_methods" />
-      <item itemvalue="Python.strings_formatting" />
-      <item itemvalue="Python.numbers_operations" />
-      <item itemvalue="Python.numbers" />
-      <item itemvalue="Python.strings" />
-      <item itemvalue="Python.variables" />
-      <item itemvalue="Python.variables_rules" />
-      <item itemvalue="Python.HelloWorld" />
-      <item itemvalue="Python tests.pytest in test_case_demo1.py" />
-    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.date" />
+        <item itemvalue="Python.addhourstodate" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -326,15 +216,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="1912" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19722557" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960285" weight="0.34574467" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960285" weight="0.2799552" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39893618" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Version Control" order="6" />
@@ -346,31 +237,21 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32978722" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" visible="true" weight="0.4007092" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basicssyntax/rest_api_response.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/basicssyntax/variables" />
-    <entry file="file://$PROJECT_DIR$/basicssyntax/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/basicssyntax/__init__.py" />
     <entry file="file://$PROJECT_DIR$/basicssyntax/variables.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -378,13 +259,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/IPython/core/interactiveshell.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-242">
-          <caret line="3295" selection-start-line="3295" selection-end-line="3295" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages/IPython/core/interactiveshell.py" />
     <entry file="file://$PROJECT_DIR$/basicssyntax/variables_rules.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -392,9 +267,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pytestpackage/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pytestpackage/__init__.py" />
     <entry file="file://$PROJECT_DIR$/pytestpackage/test_case_demo1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -409,20 +282,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basicssyntax/strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="23" column="8" selection-start-line="21" selection-end-line="23" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basicssyntax/boolean.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basicssyntax/numbers_operations.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -430,17 +289,100 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basicssyntax/string_methods.py">
+    <entry file="file://$PROJECT_DIR$/basicssyntax/listdemo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        <state relative-caret-position="425">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filehandling/filedemo1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/com_file_compare.py" />
+    <entry file="file://$PROJECT_DIR$/basicssyntax/regular_expressions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="380" column="16" selection-start-line="380" selection-start-column="16" selection-end-line="380" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/basicssyntax/strings_formatting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
+        <state relative-caret-position="119">
           <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/classdemo2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/classdemo1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/style.css" />
+    <entry file="file://$PROJECT_DIR$/basicssyntax/fakermodule.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicssyntax/string_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="28" lean-forward="true" selection-start-line="27" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicssyntax/files/annuit_20190704041521906037.clt" />
+    <entry file="file://$PROJECT_DIR$/basicssyntax/strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicssyntax/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicssyntax/annuit_20190704041521906037.clt" />
+    <entry file="file://$PROJECT_DIR$/basicssyntax/files/owner_inactive_20190704041256650294.clt" />
+    <entry file="file://$PROJECT_DIR$/basicssyntax/readfiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicssyntax/rest_api_response.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicssyntax/addhourstodate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicssyntax/date.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="50" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicssyntax/boolean.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
         </state>
       </provider>
     </entry>
