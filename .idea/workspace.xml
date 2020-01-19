@@ -76,6 +76,7 @@
     <option name="width" value="1943" />
     <option name="height" value="1043" />
   </component>
+  <component name="ProjectId" id="1WbYPrQnkqil7CkkMcyzKvk2mDm" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -237,6 +238,12 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="170" key="com.intellij.ide.util.TipDialog" timestamp="1579419748505">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="170" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1579419748504" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
