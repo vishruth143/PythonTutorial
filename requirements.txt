@@ -1,0 +1,11 @@
+Faker==33.1.0
+pyjwt==2.10.1
+pylint==3.3.2
+pyperclip==1.9.0
+pytest==8.3.4
+pytest-repeat==0.9.3
+pytest-rerunfailures==15.0
+pytest-xdist==3.6.1
+PyYAML==6.0.2
+requests==2.32.3
+selenium==4.27.1
