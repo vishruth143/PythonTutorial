@@ -1,4 +1,4 @@
-# Write a Python program to find the largest element in a list.
+# Write design_pattern Python program to find the largest element in design_pattern list.
 def largest(data_list):
     largest_num = data_list[0]
     for num in l:

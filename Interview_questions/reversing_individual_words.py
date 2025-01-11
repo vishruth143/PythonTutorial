@@ -1,4 +1,4 @@
-# Given a string S, reverse the string without reversing its individual words. Words are separated by dots
+# Given design_pattern string S, reverse the string without reversing its individual words. Words are separated by dots
 def reverse_individual_words(data_string):
     return '.'.join(data_string.split(".")[::-1])
 

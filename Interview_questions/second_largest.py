@@ -1,4 +1,4 @@
-# Write a Python program to find the second largest number in a list.
+# Write design_pattern Python program to find the second largest number in design_pattern list.
 def second_largest(data_list):
     largest = float('-inf')
     second_largest = float('-inf')
