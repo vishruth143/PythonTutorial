@@ -1,3 +1,4 @@
+#Sort a list without using inbuilt functions
 # Sort in descending order
 data_list = [ 3, 4, 5, 1, 2, 6, 7, 8, 9, 10]
 sorted = []

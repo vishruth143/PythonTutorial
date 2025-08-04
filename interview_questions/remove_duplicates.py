@@ -1,4 +1,4 @@
-# People/Telescope profile with all new skills/technologies/experience/ tools
+# Remove duplicates from a list without using set or dict
 def remove_duplicates(data_list):
     unique = []
     for num in data_list:

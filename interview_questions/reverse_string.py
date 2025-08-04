@@ -1,4 +1,4 @@
-# Write design_pattern Python program to reverse design_pattern string
+# Write python program to reverse string
 def reverse(str):
     return str[::-1]
 

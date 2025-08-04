@@ -1,4 +1,4 @@
-# Write design_pattern Python program to check if design_pattern string is design_pattern palindrome.
+# Write python program to check if design_pattern string is palindrome.
 def check_palindrome(s):
     if s == s[::-1]:
         print("Palindrome")
