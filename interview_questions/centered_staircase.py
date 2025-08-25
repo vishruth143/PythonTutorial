@@ -1,4 +1,5 @@
 # Print the Centered staircase to the given number
+
 def centered_staircase(num):
     for i in range(1, num+1):
         spaces = ' ' * (num-i)

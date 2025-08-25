@@ -1,4 +1,5 @@
 # What is the output of the code below?
+
 print('*'*10+'Problem 1'+'*'*10)
 dict1 = {i: i + 1 for i in range(10) if i % 2 == 0 if i % 3 == 0}
 print(dict1)
@@ -33,3 +34,4 @@ mylist3 = {x: x+x for x in range(1, 3)}
 print(mylist1)
 print(list(mylist2))
 print(mylist3)
+

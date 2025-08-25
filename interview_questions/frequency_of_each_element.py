@@ -1,4 +1,5 @@
 # Write python program to count the frequency of each element in list.
+
 def frequency_of_each_element(data_list):
     frequency = {}
     for num in data_list:

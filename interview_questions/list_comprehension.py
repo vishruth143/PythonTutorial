@@ -6,6 +6,7 @@ Write a Python program to generate a list of all possible coordinates [i, j, k] 
 The sum i + j + k is not equal to n
 Return this list as output.
 """
+
 if __name__ == '__main__':
     print("Enter x: ")
     x = int(input())

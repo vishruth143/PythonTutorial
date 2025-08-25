@@ -1,6 +1,6 @@
 # Guess the output of the following code snippet
-data = [[[1, 2], [3, 4]], [[5, 6], [7, 8]]]
 
+data = [[[1, 2], [3, 4]], [[5, 6], [7, 8]]]
 
 def fun(m):
     v = m[0][0]

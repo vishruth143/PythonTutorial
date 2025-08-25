@@ -1,4 +1,5 @@
 # Built-in Namespace
+
 print(len("hello"))   # 'len' is a built-in function
 
 # Global Namespace
@@ -17,3 +18,4 @@ def outer_function():
     inner_function()
 
 outer_function()
+

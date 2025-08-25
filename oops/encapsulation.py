@@ -1,3 +1,9 @@
+# Encapsulation in Python
+# Encapsulation is the bundling of data (attributes) and methods (functions) that operate
+# on that data into a single unit or class. It restricts direct access to some of an object's components,
+# which can prevent the accidental modification of data. In Python, encapsulation is implemented using
+# access specifiers: public, protected, and private.
+
 class BankAccount:
     def __init__(self, owner, balance):
         self.owner = owner          # public

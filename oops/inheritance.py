@@ -1,3 +1,5 @@
+# Example of Inheritance in Python
+
 class Parent:
     def __init__(self):
         self.parent_attribute = "I am a parent attribute"

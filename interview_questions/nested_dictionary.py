@@ -1,4 +1,5 @@
 # Desired Output: {book1: 1925, book2: 1960, book3: 1979}
+
 library_catalog = {
     "book1": {
         "title": "The Great Gatsby",
