@@ -1,12 +1,15 @@
-Faker==33.1.0
-pyjwt==2.10.1
-pylint==3.3.2
-pyperclip==1.9.0
-pytest==8.3.4
-pytest-repeat==0.9.3
-pytest-rerunfailures==15.0
-pytest-xdist==3.6.1
-PyYAML==6.0.2
-requests==2.32.3
-selenium==4.27.1
-jsonschema==4.19.0
+Faker==33.1.0                   # For generating fake data
+pyjwt==2.10.1                   # For handling JSON Web Tokens
+pylint==3.3.2                   # For code analysis
+pyperclip==1.9.0                # For clipboard operations
+pytest==8.3.4                   # For testing framework
+pytest-repeat==0.9.3            # For repeating tests
+pytest-rerunfailures==15.0      # For rerunning failedtests
+pytest-xdist==3.6.1             # For parallel test execution
+PyYAML==6.0.2                   # For YAML file handling
+requests==2.32.3                # For making HTTP requests
+selenium==4.27.1                # For browser automation
+jsonschema==4.19.0              # For JSON schema validation
+pydantic==2.8.0                 # For data validation and settings management
+pydantic[email]==2.8.0          # For email validation with Pydantic
+tenacity==8.2.2                # For retrying operations
