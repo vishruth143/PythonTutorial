@@ -1,5 +1,5 @@
 from typing import Optional, List,Annotated
-from pydantic import BaseModel, EmailStr,Field
+from pydantic import BaseModel, EmailStr, Field
 
 class CartItem(BaseModel):
     sku: str
