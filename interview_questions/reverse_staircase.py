@@ -1,7 +1,7 @@
 # Print the reverse staircase to the given number
 
-def staircase(num):
+def reversed_staircase(num):
     for i in range(1, num+1):
-        print(' '*(num-i)+'*'*i)
+        print((' '*(num-i)) + ('*'*i))
 
-staircase(10)
+reversed_staircase(10)

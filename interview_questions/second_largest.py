@@ -11,5 +11,5 @@ def second_largest(data_list):
             second_largest = num
     return second_largest
 
-l = [4, 5, 6, 7, 8, 10]
+l = [4, 5, 6, 7, 10, 8]
 print(second_largest(l))
