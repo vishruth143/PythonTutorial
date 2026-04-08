@@ -11,7 +11,7 @@ print(reverse_individual_words(s))
 # l = s.split('.')
 # print(l)
 
-# Step 2: Get the lenght of the list.
+# Step 2: Get the length of the list.
 # l_len = len(l)
 # print(l_len)
 
