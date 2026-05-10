@@ -1,29 +1,9 @@
-"""
-Write a Python program to generate a list of all possible coordinates [i, j, k] such that:
-0 ≤ i ≤ x
-0 ≤ j ≤ y
-0 ≤ k ≤ z
-The sum i + j + k is not equal to n
-Return this list as output.
-"""
+# List Comprehension in Python
+# List comprehension is a concise way to create lists using a single line of code.
+# It is more readable and faster than using a traditional for loop with append().
+# Syntax: [expression for item in iterable if condition]
+#   - expression : the value to include in the list
+#   - iterable   : the sequence to iterate over
+#   - condition  : (optional) filter — only items that pass are included
 
-if __name__ == '__main__':
-    print("Enter x: ")
-    x = int(input())
-
-    print("Enter y: ")
-    y = int(input())
-
-    print("Enter z: ")
-    z = int(input())
-
-    print("Enter n: ")
-    n = int(input())
-
-    # List comprehension to generate coordinates
-    result = [[i, j, k] for i in range(x + 1)
-              for j in range(y + 1)
-              for k in range(z + 1)
-              if i + j + k != n]
-
-    print(result)
+print([i for i in range(10) if i%2 == 0])
