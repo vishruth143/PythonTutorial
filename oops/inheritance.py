@@ -1,4 +1,9 @@
-# Example of Inheritance in Python
+# Inheritance in Python
+# Inheritance is a fundamental OOP concept that allows a class (child/subclass) to acquire
+# the properties and behaviors (attributes and methods) of another class (parent/superclass).
+# It promotes code reusability and establishes a natural hierarchy between classes.
+# Python supports: Single, Multiple, Multilevel, Hierarchical, and Hybrid inheritance.
+# Use `super()` to call the parent class's methods or constructor from within the child class.
 
 class Parent:
     def __init__(self):
