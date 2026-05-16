@@ -29,5 +29,5 @@ class Circle(Shape):
 
 # Usage
 c = Circle(5)
-print("Area:", c.area())          # 78.5
-print("Perimeter:", c.perimeter())# 31.4
+print("Area:", c.area())           # 78.5
+print("Perimeter:", c.perimeter()) # 31.4
