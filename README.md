@@ -13,6 +13,7 @@ PythonTutorial/
 ├── interview_questions/     # Common Python interview problems
 ├── oops/                    # Object-Oriented Programming concepts
 ├── pydantic/                # Data validation with Pydantic
+├── lambda_function/         # Lambda function examples
 ├── schema_validation/       # JSON schema validation
 ├── solid_principles/        # SOLID design principles
 ├── tenacity/                # Retry logic with Tenacity
@@ -128,6 +129,16 @@ Data validation and serialization using [Pydantic v2](https://docs.pydantic.dev/
 | `product.py`        | Optional fields, `model_dump()`, JSON schema        |
 | `studnet.py`        | Field constraints, `EmailStr`, `AnyUrl` validation  |
 | `api_validation.py` | Nested models for API request validation            |
+
+### ⚡ Lambda Functions (`lambda_function/`)
+
+Anonymous one-liner functions using Python's `lambda` keyword.
+
+| File                  | Description                                         |
+|-----------------------|-----------------------------------------------------|
+| `lambda_function.py`  | Add, multiply, uppercase, and conditional examples  |
+
+---
 
 ### 📐 Schema Validation (`schema_validation/`)
 
